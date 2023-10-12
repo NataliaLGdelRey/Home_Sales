@@ -1,6 +1,20 @@
 ---
 title: "22: Big Data"
----
+-----------------------------------
+
+### References 
+-----------------------------------
+
+- https://github.com/khadra1
+- https://github.com/VL14
+- https://github.com/DataTell?tab=overview&from=2020-12-01&to=2020-12-31
+- https://github.com/SyedFarman
+- https://github.com/elsafig
+- https://scikit-learn.org/stable/modules/model_evaluation.html
+- https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
+
+--------------------------------------
+
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m22/lms/img/banner.jpg" alt="lesson banner" />
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
